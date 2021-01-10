@@ -1,0 +1,5 @@
+How to install SDL2 in Debian Stretch
+aptitude install libsdl2-dev libsdl2-gfx-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
+
+
+https://www.shodor.org/stella2java/rgbint.html
